@@ -1,1 +1,1 @@
-Hello world this is child branch ( changes coming from the child latest )
+Hello world this is child branch ( changes coming from the child latest ) -editing the origin file
